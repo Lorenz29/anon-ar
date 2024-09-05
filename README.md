@@ -4,4 +4,6 @@
   <img src="https://github.com/Lorenz29/anon-ar/blob/main/bandera-nacional-4.jpg" width="1200">
 </p>
 
-Anon Ar is a zero-knowledge protocol that allows Argentina's DNI owners to prove their identity in a privacy preserving way.
+Anon Ar is a zero-knowledge protocol that allows DNI's holders to prove their identity in a privacy preserving way.
+
+DNI = Documento Nacional de Identidad (Argentina's ID issued by [RENAPER](https://www.argentina.gob.ar/interior/renaper) )
