@@ -6,13 +6,19 @@
 
 AnonAr is a zero-knowledge protocol that allows DNI's holders to prove their identity in a privacy preserving way.
 
-DNI = Documento Nacional de Identidad (Argentina's ID issued by [RENAPER](https://www.argentina.gob.ar/interior/renaper) )
+DNI = Documento Nacional de Identidad (Argentina's ID issued by [ReNaPer](https://www.argentina.gob.ar/interior/renaper) )
 
 
 ## Motivation
 
-Argentinian citizens can protect their privacy while proving only 
+Argentinian citizens can protect their privacy while proving some aspects of it according of the context demands.
 
+
+## Project description
+
+"DNI Digital" is a virtual ID considered valid in all aspects according to the law as the national ID delivered by ReNaPer which is the official issuing ID entity.
+
+The digital DNI is accesed throught the application "[Mi Argentina](https://www.argentina.gob.ar/miargentina)" with the format of JWT with assymetric cryptography.
 
 ## Goverment statement
 
