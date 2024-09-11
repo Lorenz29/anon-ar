@@ -16,6 +16,8 @@ As Argentinian citizen and PSE Core Program student and after dive around projec
 
 ## Project description
 
+By using programmable cryptography techniques we can leverage the uses of "DNI Digital" by creating a SDK toolkit where developers can implement it in their apps and enables argentians to keep their personal data private while proving some aspects of it.
+
 "DNI Digital" is a digital ID considered valid in all aspects (except voting and travelling) according to the law as the national ID delivered by ReNaPer which is the official issuing ID entity. To access this document it's required to go into a validation process including biometrics.
 
 The digital DNI is accessed throught the application [Mi Argentina](https://www.argentina.gob.ar/miargentina) with a QR code containing a JSON Web Token signed using RS256 algorithm (RSA with SHA-256). 
@@ -27,7 +29,6 @@ The digital DNI is accessed throught the application [Mi Argentina](https://www.
 The digital ID could be verified offline with the application [ValidAR](https://www.argentina.gob.ar/validar)
 
 
-By using programmable cryptography techniques we can leverage the uses of this digital ID and create a SDK toolkit where developers can implement 
 
 ## Goverment statement
 
