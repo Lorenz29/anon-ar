@@ -16,7 +16,7 @@ Argentinian citizens can protect their privacy while proving some aspects of it 
 
 ## Project description
 
-"DNI Digital" is a digital ID considered valid in all aspects (except voting and travelling) according to the law as the national ID delivered by ReNaPer which is the official issuing ID entity.
+"DNI Digital" is a digital ID considered valid in all aspects (except voting and travelling) according to the law as the national ID delivered by ReNaPer which is the official issuing ID entity. To access this document it's required to go into a validation process including biometrics.
 
 The digital DNI is accessed throught the application [Mi Argentina](https://www.argentina.gob.ar/miargentina) with a QR code containing a JSON Web Token signed using RS256 algorithm (RSA with SHA-256). 
 
@@ -26,8 +26,16 @@ The digital DNI is accessed throught the application [Mi Argentina](https://www.
 
 The digital ID could be verified offline with the application [ValidAR](https://www.argentina.gob.ar/validar)
 
+
 ## Goverment statement
 
 As declared in the "Art. 4" of the "[Decreto 744/2019](https://www.boletinoficial.gob.ar/detalleAviso/primera/220176/20191030)": 
 
 "ARTÍCULO 4º.- Establécese que la credencial virtual del Documento Nacional de Identidad para dispositivos móviles inteligentes será considerada a todos los efectos Documento Nacional de Identidad, teniendo pleno valor identificatorio en todos los actos públicos y privados en los términos de la Ley Nº 17.671 y sus modificatorias."
+
+## Potential use cases
+
+- Funding / voting
+- Anon checkin
+- Ticketing (Devconnect Buenos Aires 2025???)
+- Proof of Age
