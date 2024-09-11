@@ -11,12 +11,12 @@ DNI = Documento Nacional de Identidad (Argentina's ID issued by [ReNaPer](https:
 
 ## Motivation
 
-As Argentinian citizen and PSE Core Program student and after dive around projects like [zkEmail](https://prove.email/), [OpenPassport](https://openpassport.app/) and mainly [Anon Addhaar](https://anon-aadhaar.pse.dev/), I'd like to build 
+As an Argentinian PSE Core Program student and after diving around projects like [zkEmail](https://prove.email/), [OpenPassport](https://openpassport.app/) and mainly [Anon Addhaar](https://anon-aadhaar.pse.dev/), I've found an opportunity to create value and impact in the web3 ecosystem.
 
 
 ## Project description
 
-By using programmable cryptography techniques we can leverage the uses of "DNI Digital" by creating a SDK toolkit where developers can implement it in their apps and enables argentians to keep their personal data private while proving some aspects of it.
+By using programmable cryptography techniques we can leverage the uses of "DNI Digital" by creating a SDK toolkit where developers can implement it in their apps and enables argentinians to keep their personal data private while proving some aspects of it.
 
 "DNI Digital" is a digital ID considered valid in all aspects (except voting and travelling) according to the law as the national ID delivered by ReNaPer which is the official issuing ID entity. To access this document it's required to go into a validation process including biometrics.
 
