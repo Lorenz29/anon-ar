@@ -11,7 +11,7 @@ DNI = Documento Nacional de Identidad (Argentina's ID issued by [ReNaPer](https:
 
 ## Motivation
 
-As Argentinian citizen and PSE Core Program student and after dive around projects like [zkEmail](https://www.prove.email/), [OpenPassport](https://openpassport.app/) and mainly [Anon Addhaar](https://anon-aadhaar.pse.dev/), I'd like to build 
+As Argentinian citizen and PSE Core Program student and after dive around projects like [zkEmail](https://prove.email/), [OpenPassport](https://openpassport.app/) and mainly [Anon Addhaar](https://anon-aadhaar.pse.dev/), I'd like to build 
 
 
 ## Project description
