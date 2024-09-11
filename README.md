@@ -16,7 +16,7 @@ Argentinian citizens can protect their privacy while proving some aspects of it 
 
 ## Project description
 
-"DNI Digital" is a virtual ID considered valid in all aspects according to the law as the national ID delivered by ReNaPer which is the official issuing ID entity.
+"DNI Digital" is a digital ID considered valid in all aspects (except voting and travelling) according to the law as the national ID delivered by ReNaPer which is the official issuing ID entity.
 
 The digital DNI is accessed throught the application [Mi Argentina](https://www.argentina.gob.ar/miargentina) with a QR code containing a JSON Web Token signed using RS256 algorithm (RSA with SHA-256). The digital ID could be verified offline with the application [ValidAR](https://www.argentina.gob.ar/validar)
 
