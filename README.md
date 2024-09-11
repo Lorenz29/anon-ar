@@ -18,7 +18,7 @@ As an Argentinian PSE Core Program student and after diving around projects like
 
 By using programmable cryptography techniques we can leverage the uses of "DNI Digital" by creating a SDK toolkit where developers can implement it in their apps and enables argentinians to keep their personal data private while proving some aspects of it.
 
-"DNI Digital" is a digital ID considered valid in all aspects (except voting and travelling) according to the law as the national ID delivered by ReNaPer which is the official issuing ID entity. To access this document it's required to go into a validation process including biometrics.
+"DNI Digital" is a digital ID considered equally valid as the physical national ID card (except for voting and travelling) delivered by ReNaPer which is the official issuing ID entity. To access this document it's required to go into a validation process including biometrics.
 
 The digital DNI is accessed throught the application [Mi Argentina](https://www.argentina.gob.ar/miargentina) with a QR code containing a JSON Web Token signed using RS256 algorithm (RSA with SHA-256). 
 
@@ -30,7 +30,7 @@ The digital ID could be verified offline with the application [ValidAR](https://
 
 
 
-## Goverment statement
+## Legal
 
 As declared in the "Art. 4" of the "[Decreto 744/2019](https://www.boletinoficial.gob.ar/detalleAviso/primera/220176/20191030)": 
 
