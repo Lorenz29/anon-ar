@@ -11,7 +11,7 @@ DNI = Documento Nacional de Identidad (Argentina's ID issued by [ReNaPer](https:
 
 ## Motivation
 
-Argentinian citizens can protect their privacy while proving some aspects of it according of the context demands.
+As Argentinian citizen and PSE Core Program student and after dive around projects like [zkEmail](https://www.prove.email/), [OpenPassport](https://openpassport.app/) and mainly [Anon Addhaar](https://anon-aadhaar.pse.dev/), I'd like to build 
 
 
 ## Project description
@@ -26,6 +26,8 @@ The digital DNI is accessed throught the application [Mi Argentina](https://www.
 
 The digital ID could be verified offline with the application [ValidAR](https://www.argentina.gob.ar/validar)
 
+
+By using programmable cryptography techniques we can leverage the uses of this digital ID and create a SDK toolkit where developers can implement 
 
 ## Goverment statement
 
