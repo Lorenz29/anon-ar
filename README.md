@@ -20,6 +20,10 @@ Argentinian citizens can protect their privacy while proving some aspects of it 
 
 The digital DNI is accessed throught the application [Mi Argentina](https://www.argentina.gob.ar/miargentina) with a QR code containing a JSON Web Token signed using RS256 algorithm (RSA with SHA-256). The digital ID could be verified offline with the application [ValidAR](https://www.argentina.gob.ar/validar)
 
+<p align="center">
+  <img src="https://github.com/Lorenz29/anon-ar/blob/main/files/DNI_Digital.png">
+</p>
+
 ## Goverment statement
 
 As declared in the "Art. 4" of the "[Decreto 744/2019](https://www.boletinoficial.gob.ar/detalleAviso/primera/220176/20191030)": 
