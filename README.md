@@ -11,7 +11,7 @@ DNI = Documento Nacional de Identidad (Argentina's ID issued by [ReNaPer](https:
 
 ## Motivation
 
-As an Argentinian PSE Core Program student and after diving around projects like [zkEmail](https://prove.email/), [OpenPassport](https://openpassport.app/) and mainly [Anon Addhaar](https://anon-aadhaar.pse.dev/), I've found an opportunity to create value and impact in the web3 ecosystem.
+As an Argentinian PSE Core Program student and after diving around projects like [zkEmail](https://prove.email/), [OpenPassport](https://openpassport.app/) and mainly [Anon Aadhaar](https://anon-aadhaar.pse.dev/), I've found an opportunity to create value and impact in the web3 ecosystem.
 
 
 ## Project description
@@ -27,6 +27,8 @@ The digital DNI is accessed throught the application [Mi Argentina](https://www.
 </p>
 
 The digital ID could be verified offline with the application [ValidAR](https://www.argentina.gob.ar/validar). 
+
+## Specification
 
 
 
@@ -47,3 +49,4 @@ Translation:
 - Ticketing (Devconnect Buenos Aires 2025???)
 - Proof of Citizenship / Proof of Age
 - Gitcoin Passport
+- Wallet recovery?
