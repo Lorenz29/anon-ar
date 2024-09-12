@@ -86,6 +86,7 @@ Translation:
 ### Mentors
 
 @Meyanis95 [Github](https://github.com/Meyanis95) | [X](https://x.com/yanis_mezn)
+
 @brech1 [Github](https://github.com/brech1) | [Linktree](https://linktr.ee/brechy)
 
 ## Resources
