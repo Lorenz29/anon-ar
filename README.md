@@ -16,9 +16,9 @@ As an Argentinian PSE Core Program student and after diving around projects like
 
 ## Project description
 
-By using programmable cryptography techniques we can leverage the uses of "DNI Digital" by creating a SDK toolkit where developers can implement it in their apps and enable users to generate a zero-knowledge proof of their identities.
+By using programmable cryptography techniques we can leverage the uses of "DNI Digital" by creating a SDK toolkit where developers can implement it in their apps and enable users to generate a zero-knowledge proof of their identities. 
 
-"DNI Digital" is a digital ID considered equally valid as the physical national ID card (except for voting and travelling) delivered by ReNaPer. To possess this document it's required to go into a validation process including biometrics.
+"DNI Digital" is a digital ID considered equally valid as the physical national ID card (except for voting and travelling) delivered by ReNaPer. To possess this document it's required to go into a validation process including biometrics. Instructions [here](files/instructivo_de_descarga_dni_en_tu_celular_-_renaper.pdf).
 
 The digital DNI is accessed throught the application [Mi Argentina](https://www.argentina.gob.ar/miargentina) that have a QR code containing a [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) signed using RS256 algorithm (RSA with SHA-256). 
 
