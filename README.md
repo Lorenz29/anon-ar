@@ -85,7 +85,7 @@ Translation:
 
 ### Mentors
 
-@Meyanis95
+@Meyanis95 [Github](https://github.com/Meyanis95) [X](https://x.com/yanis_mezn)
 
 ## Resources
 
