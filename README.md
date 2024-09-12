@@ -1,7 +1,7 @@
 # AnonAr
 
 <p align="center">
-  <img src="https://github.com/Lorenz29/anon-ar/blob/main/files/bandera.webp" width="300">
+  <img src="https://github.com/Lorenz29/anon-ar/blob/main/files/bandera.webp" width="300" theme="transparent">
 </p>
 
 AnonAr is a zero-knowledge protocol that allows DNI's holders to prove their identity in a privacy preserving way.
