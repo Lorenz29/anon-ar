@@ -1,7 +1,7 @@
 # AnonAr
 
 <p align="center">
-  <img src="https://github.com/Lorenz29/anon-ar/blob/main/files/bandera.webp" width="300" theme="transparent">
+  <img src="https://github.com/Lorenz29/anon-ar/blob/main/files/bandera.jpeg" width="300" theme="transparent">
 </p>
 
 AnonAr is a zero-knowledge protocol that allows DNI's holders to prove their identity in a privacy preserving way.
@@ -44,7 +44,7 @@ The circuit will generate the proof that can be use in an App or a Smart Contrac
 - Use payload data to generate the proofs (E.G: Proof of Personhood)
 - 
 
-## Legal
+## Law
 
 As declared in the "Art. 4" of the "[Decreto 744/2019](https://www.boletinoficial.gob.ar/detalleAviso/primera/220176/20191030)": 
 
