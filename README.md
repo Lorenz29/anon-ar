@@ -26,7 +26,7 @@ The digital DNI is accessed throught the application [Mi Argentina](https://www.
   <img src="https://github.com/Lorenz29/anon-ar/blob/main/files/dni-digital-2024.webp">
 </p>
 
-The digital ID could be verified offline with the application [ValidAR](https://www.argentina.gob.ar/validar). 
+The digital ID could be validated offline with the application [ValidAR](https://www.argentina.gob.ar/validar). 
 
 ## How it works
 
@@ -39,10 +39,28 @@ The circuit will generate the proof that can be use in an App or a Smart Contrac
 
 ## Specification
 
-- Extract data from QR code and verify it's signed by ReNaPer using the public key
-- 
-- Use payload data to generate the proofs (E.G: Proof of Personhood)
-- 
+- Extract data from QR code and parse it
+- Verify the RSA signature of the hashed data
+- Verify it's signed by ReNaPer using the public key
+- Extract fields from signed data
+- Generate the proofs (e.g. Proof of Personhood)
+
+
+### Inputs
+
+- Signature (private)
+- Signed Data (private)
+- Public Key (public)
+- signalHash (public)
+
+### Outputs
+
+- userNullifier
+- identityNullifier
+- timestamp
+- pubKeyHash
+- signalHash
+
 
 ## Law
 
