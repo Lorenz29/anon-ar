@@ -80,3 +80,14 @@ Translation:
 - Proof of Personhood / Proof of Age
 - Gitcoin Passport
 - Wallet recovery?
+
+## Collaborators
+
+### Mentors
+
+@Meyanis95
+
+## Resources
+
+- [Anon Aadhaar repo](https://github.com/anon-aadhaar/anon-aadhaar/tree/main)
+- 
