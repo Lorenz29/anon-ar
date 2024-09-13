@@ -84,6 +84,7 @@ Translation:
 - Proof of Personhood / Proof of Age
 - Gitcoin Passport
 - Wallet recovery?
+- [ReProCann](https://reprocann.msal.gob.ar/auth) (Registro del Programa Cannabis)
 
 ## Possible challenges
 
