@@ -26,7 +26,11 @@ The digital DNI is accessed throught the application [Mi Argentina](https://www.
   <img src="https://github.com/Lorenz29/anon-ar/blob/main/files/dni-digital-2024.webp">
 </p>
 
-The digital ID could be validated offline with the application [ValidAR](https://www.argentina.gob.ar/validar). 
+The digital ID could be validated offline with the application [ValidAR](https://www.argentina.gob.ar/validar).
+
+<p align="center">
+  <img src="https://github.com/Lorenz29/anon-ar/blob/main/files/validar_pantallas.png">
+</p>
 
 ## How it works
 
@@ -80,6 +84,10 @@ Translation:
 - Proof of Personhood / Proof of Age
 - Gitcoin Passport
 - Wallet recovery?
+
+## Possible challenges
+
+I've found [ReNaPer's publicKey](circuits/assets/renaper-public.pem) by doing reverse engineering of the [ValidAR App](https://www.argentina.gob.ar/validar) but couldn't find a public site where the it's published by the goverment. This could be an issue since the verifier will need to validate the origin of this key.
 
 ## Goal of the project
 
