@@ -32,7 +32,7 @@ The digital ID could be validated offline with the application [ValidAR](https:/
 
 The prover upload the QR code generated in the app Mi Argentina: Mis Documentos->DNI->Ver DNI Digital->Pin->Verifica código QR.
 
-From this QR, which is a JWT, it parse the signed data and verify it with the [pubkey](/circuits/assets/renaper-public.pem). See this test [example](https://jwt.io/#debugger-io?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJkbmkiOiIxMjM0NTY3OCIsInNleG8iOiJNIiwiYXBlbGxpZG8iOiJSSVFVRUxNRSIsIm5vbWJyZSI6Ikp1YW4gUm9tYW4iLCJpc3MiOiJSRU5BUEVSIiwiYXVkIjoiaWQuYXJnZW50aW5hLmdvYi5hciIsImlhdCI6MTcyNTM2NTc1NSwibmJmIjoxNzI1MzY1NzU1LCJleHAiOjE3MjU0MTg3OTl9.Vcu4Lce14vM3b1TIvqnoVgvMblcI2M5USze75IELiLA6zyusQAHFkqe3GtdqcA1rwCB17G3VyY5qL25QOJfHvgaVCgiK1Hkjc0q9SM34Cp4lsMVFC-QbBBrKpbCvRco4T6MvFOLpCp2qnf4KTJw8ZOCHKKCF4jL2JeiEl0U0Myfx2WaGkaHx7Vqm5AnHDZSgnrClb8BzeD41-qYHheVEjxoJRIgPV2Xq71OZveBdJItaWTVeEPoDy40n2jcAePBZZwWj8qPmfZNjcqSrvAnHH0SfYOtMo9qT4iMWU-qziLAFoYaEmYedwtYqZWzXc8xZOFQyjUf2cVkt2zDvt9oMCA&publicKey=-----BEGIN%20PUBLIC%20KEY-----%0AMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu1SU1LfVLPHCozMxH2Mo%0A4lgOEePzNm0tRgeLezV6ffAt0gunVTLw7onLRnrq0%2FIzW7yWR7QkrmBL7jTKEn5u%0A%2BqKhbwKfBstIs%2BbMY2Zkp18gnTxKLxoS2tFczGkPLPgizskuemMghRniWaoLcyeh%0Akd3qqGElvW%2FVDL5AaWTg0nLVkjRo9z%2B40RQzuVaE8AkAFmxZzow3x%2BVJYKdjykkJ%0A0iT9wCS0DRTXu269V264Vf%2F3jvredZiKRkgwlL9xNAwxXFg0x%2FXFw005UWVRIkdg%0AcKWTjpBP2dPwVZ4WWC%2B9aGVd%2BGyn1o0CLelf4rEjGoXbAAEgAqeGUxrcIlbjXfbc%0AmwIDAQAB%0A-----END%20PUBLIC%20KEY-----)
+From this QR, which is a JWT, it parse the signed data and verifies it with the [pubkey](/circuits/assets/renaper-public.pem). See this test [example](https://tinyurl.com/stmrmeav)
 
 The circuit will generate the proof that can be use in an App or a Smart Contract to convince the verifier that the prover has a valid argentinian ID. It's important to mention that all the information included in the JWT never leaves the prover's browser.
 
@@ -86,7 +86,6 @@ Translation:
 ### Mentors
 
 @Meyanis95 [Github](https://github.com/Meyanis95) | [X](https://x.com/yanis_mezn)
-
 @brech1 [Github](https://github.com/brech1) | [Linktree](https://linktr.ee/brechy)
 
 ## Resources
