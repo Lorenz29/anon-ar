@@ -81,9 +81,11 @@ Translation:
 - Gitcoin Passport
 - Wallet recovery?
 
-## Collaborators
+## Goal of the project
 
-### Mentors
+To build a MVP allowing users to generate a valid proof.
+
+## Mentors
 
 @Meyanis95 [Github](https://github.com/Meyanis95) | [X](https://x.com/yanis_mezn)
 @brech1 [Github](https://github.com/brech1) | [Linktree](https://linktr.ee/brechy)
