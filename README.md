@@ -93,4 +93,4 @@ To build a MVP allowing users to generate a valid proof.
 ## Resources
 
 - [Anon Aadhaar repo](https://github.com/anon-aadhaar/anon-aadhaar/tree/main)
-- 
+- [zkEmail repo](https://github.com/zkemail)
