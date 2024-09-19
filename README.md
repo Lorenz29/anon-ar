@@ -85,6 +85,7 @@ Translation:
 - Gitcoin Passport
 - Wallet recovery?
 - [ReProCann](https://reprocann.msal.gob.ar/auth) (Registro del Programa Cannabis)
+- HumanX - ZK Social Media
 
 ## Possible challenges
 
